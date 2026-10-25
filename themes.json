@@ -57,7 +57,7 @@
     "category": "Nature",
     "mood": "Chill",
     "videoUrl": "https://github.com/trackmyspenddev-gif/audiohub-themes/releases/download/v1.0-themes/bonfire.theme.mp4",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1517824806704-9040b037703b?w=600&q=80",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/trackmyspenddev-gif/audiohub-themes@main/thumbnails/bonfire_theme.webp",
     "sizeBytes": 7402092,
     "durationSeconds": 15,
     "accentColor": "#F97316",
