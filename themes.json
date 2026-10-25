@@ -44,7 +44,7 @@
     "category": "Anime",
     "mood": "Chill",
     "videoUrl": "https://github.com/trackmyspenddev-gif/audiohub-themes/releases/download/v1.0-themes/aesthertic-love.mp4",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1518173946687-a4c8a383392e?w=600&q=80",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/trackmyspenddev-gif/audiohub-themes@main/thumbnails/aesthertic_love.webp",
     "sizeBytes": 2302339,
     "durationSeconds": 15,
     "accentColor": "#EC4899",
