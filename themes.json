@@ -70,7 +70,7 @@
     "category": "Nature",
     "mood": "Night",
     "videoUrl": "https://github.com/trackmyspenddev-gif/audiohub-themes/releases/download/v1.0-themes/hd.lighthouse.theme.mp4",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&q=80",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/trackmyspenddev-gif/audiohub-themes@main/thumbnails/hd_lighthouse_theme.webp",
     "sizeBytes": 7657687,
     "durationSeconds": 15,
     "accentColor": "#38BDF8",
